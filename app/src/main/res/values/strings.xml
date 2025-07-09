@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HydroTrack</string> <string-array name="activity_levels_array">
+    <item>Low</item>
+    <item>Moderate</item>
+    <item>High</item>
+</string-array>
+</resources>
